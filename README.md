@@ -1,4 +1,5 @@
-![screencapture-padman83-github-io-Yellow-Canvas-Painter-App-2019-08-06-21_06_45](https://user-images.githubusercontent.com/45048950/62822929-ff1f5500-bbbc-11e9-8c64-37b78a60b31a.png)
+![ezgif com-optimize](https://user-images.githubusercontent.com/45048950/98022132-2dcbc000-1e40-11eb-92ba-7df76bf17509.gif)
+
 
 ### 🧰 System Requirements:
 
